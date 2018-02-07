@@ -17,6 +17,9 @@ The GloveOne was created for the same, if not more trivial reason. Developers wa
 
 Currently the GloveOne supports “C++ and C# for development” (Neurodigital Technologies) as well as supporting platforms like Unreal and Unity. It also supports the two major VR headsets on the market, Oculus and VIVE. They’re also working with companies like Intel and Microsoft to integrate into their existing products. Currently the GloveOne has to be paired with one of the major VR headsets or Leap Motion products. It unfortunately is not an independent device.
 
+![](https://ksr-ugc.imgix.net/assets/003/984/441/a0fa5ffe5b17c31a6999c969d496f891_original.png?w=680&fit=max&v=1434373451&auto=format&lossless=true&s=9e3e59f9cb6d94a063d7e373dc451558)
+
+
 The device should not cause any physical issues because they’re gloves. However, you could experience normal hand fatigue from just using your hands more than usual. You could also experience the normal motion sickness from wearing a VR headset. The gloves have a potential to help the user feel less motion sickness by tricking the mind into thinking it is there more because the gloves help pull you into the experience.
 
 The GloveOne is a haptic based accessory for all major VR experiences that helps the user feel their experience with their bare hands. The device uses little vibrating actuators along with an onboard motherboard to help developers create experiences on VR devices that feel as immersive as they look. The device is currently available on platforms like Unreal and Unity as well as open to development on C++ and C# for a licensing fee. Developers can use this new peripheral to create amazing experiences that go beyond playing a virtual piano like you’re there, like feeling the ski poles in your hands. In time Neurodigital Technologies will see all the amazing things people learn to create with their new haptic device, and all the lives they alter as a result. 
