@@ -13,7 +13,8 @@ The device should not cause any physical issues because they’re gloves. Howeve
 The GloveOne is a haptic based accessory for all major VR experiences that helps the user feel their experience with their bare hands. The device uses little vibrating actuators along with an onboard motherboard to help developers create experiences on VR devices that feel as immersive as they look. The device is currently available on platforms like Unreal and Unity as well as open to development on C++ and C# for a licensing fee. Developers can use this new peripheral to create amazing experiences that go beyond playing a virtual piano like you’re there, like feeling the ski poles in your hands. In time Neurodigital Technologies will see all the amazing things people learn to create with their new haptic device, and all the lives they alter as a result. 
 
 
-Work Cited
+<div align="center">Work Cited</div>
+
 Wikipedia. “Haptics.” Wikipedia, Wikimedia Foundation, 26 Jan. 2018, en.wikipedia.org/wiki/Haptics.
 
 “Haptic Technology.” Wikipedia, Wikimedia Foundation, 4 Feb. 2018, en.wikipedia.org/wiki/Haptic_technology.
