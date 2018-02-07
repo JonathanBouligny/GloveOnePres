@@ -1,24 +1,28 @@
 ![](http://virtualrealityreporter.com/wp-content/uploads/2015/07/11.jpg)
+image from virtualrealityreport.com
 
 # GloveOne Report
 
 The GloveOne is a haptic technology based peripheral device that allows the user to experience virtual experience through the feeling of touch. Haptics are “any form of interaction involving touch” (Wikipedia). This can refer to Haptic communication, communication through touch, perception, recognize objects through touch, and technology that interfaces with the user through the sense of touch. Haptic technology works through vibrations in the haptic actuators to simulate things like crushing rocks and rain on your hands. Essentially, developers are trying to recreate the sense of touch, so gamers can feel more immersed in the user experience.
 
 ![](https://pbs.twimg.com/media/DL7RS_JW4AAJL59.jpg)
+image from pbs.com
 
 Previous forms of haptic technology include rumble packs in video games and “for the remote control of an excavator-like dismantling equipment” (Dongnam,1). Essentially, it was very dangerous to dismantle skyscrapers if the operator was in the machine. So, a remote dismantling device was needed to make the process safer. However. without haptic feedback the operator has a higher risk of damaging the machine or improperly dismantling the building. So, haptic feedback was given to a remote operator of dismantling equipment to make the dismantling safer and easier. Essentially the operator feels what he would normally feel if he were there, giving him more tactile control over an excavator or other dismantling device.
 
 ![](https://www.equipmentworld.com/wp-content/uploads/sites/2/2017/01/MM0117G.jpg)
+image from equipmentworld.com
 
 The GloveOne was created for the same, if not more trivial reason. Developers wanted to give the player tactile feeling over the games they play so they can play them better and be more immersed in the experience. There are haptic actuators in the fingers of the glove that create a vibration feeling that simulates different experiences. From a butterfly landing on your finger to your hand over fire (without the heat), many different experiences can be created.
 
 
 ![](https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2015/06/gloveone_butterfly.jpg)
+image from roadtovrlive
 
 Currently the GloveOne supports “C++ and C# for development” (Neurodigital Technologies) as well as supporting platforms like Unreal and Unity. It also supports the two major VR headsets on the market, Oculus and VIVE. They’re also working with companies like Intel and Microsoft to integrate into their existing products. Currently the GloveOne has to be paired with one of the major VR headsets or Leap Motion products. It unfortunately is not an independent device.
 
 ![](https://ksr-ugc.imgix.net/assets/003/984/441/a0fa5ffe5b17c31a6999c969d496f891_original.png?w=680&fit=max&v=1434373451&auto=format&lossless=true&s=9e3e59f9cb6d94a063d7e373dc451558)
-
+image from GloveOne kickstarter page
 
 The device should not cause any physical issues because they’re gloves. However, you could experience normal hand fatigue from just using your hands more than usual. You could also experience the normal motion sickness from wearing a VR headset. The gloves have a potential to help the user feel less motion sickness by tricking the mind into thinking it is there more because the gloves help pull you into the experience.
 
