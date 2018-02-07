@@ -1,6 +1,5 @@
-# GloveOnePres
-Students Choice Presentation
-#Glove One Report
+# GloveOne Report
+
 The GloveOne is a haptic technology based peripheral device that allows the user to experience virtual experience through the feeling of touch. Haptics are “any form of interaction involving touch” (Wikipedia). This can refer to Haptic communication, communication through touch, perception, recognize objects through touch, and technology that interfaces with the user through the sense of touch. Haptic technology works through vibrations in the haptic actuators to simulate things like crushing rocks and rain on your hands. Essentially, developers are trying to recreate the sense of touch, so gamers can feel more immersed in the user experience. 
 
 Previous forms of haptic technology include rumble packs in video games and “for the remote control of an excavator-like dismantling equipment” (Dongnam,1). Essentially, it was very dangerous to dismantle skyscrapers if the operator was in the machine. So, a remote dismantling device was needed to make the process safer. However. without haptic feedback the operator has a higher risk of damaging the machine or improperly dismantling the building. So, haptic feedback was given to a remote operator of dismantling equipment to make the dismantling safer and easier. Essentially the operator feels what he would normally feel if he were there, giving him more tactile control over an excavator or other dismantling device.
